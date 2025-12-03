@@ -4,7 +4,7 @@ Hi! I’m a Data Analyst transitioning from 4 years of IT experience at Infosys.
 
 I specialize in SQL, Excel, Power BI, and Python for data cleaning, EDA, dashboarding, and reporting.
 
-## Projects 📁
+## 📁 Projects
 These are my data analytics projects using SQL, Power BI, Excel, and Python.
 
 1️⃣ US Healthcare Case Study – SQL & Power BI
@@ -31,11 +31,11 @@ Sales performance analysis with Excel dashboards highlighting KPIs & drill-down 
 
 Project Folder: /04_Sales_Analytics_Sprint_Hackathon
 
- ## Tech Stack 🛠
+ ## 🛠 Tech Stack
 
 SQL | Excel | Power BI | Python | Pandas | NumPy | Matplotlib | Power Query | DAX
 
-## Connect With Me 🚀
+## 🚀 Connect With Me
 
 LinkedIn: [linkedin.com/in/nishtha-agrawal-39a97b212](https://www.linkedin.com/in/nishtha-agrawal-39a97b212)
 
