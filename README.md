@@ -37,6 +37,6 @@ SQL | Excel | Power BI | Python | Pandas | NumPy | Matplotlib | Power Query | DA
 
 ## Connect With Me 🚀
 
-LinkedIn: linkedin.com/in/nishtha-agrawal-39a97b212
+LinkedIn: [linkedin.com/in/nishtha-agrawal-39a97b212](https://www.linkedin.com/in/nishtha-agrawal-39a97b212)
 
 Email: agrawal.nishtha.02@gmail.com
